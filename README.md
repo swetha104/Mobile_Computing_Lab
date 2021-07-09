@@ -1,6 +1,6 @@
 # Mobile_Computing_Lab  
 
-The different Anroid applications developed here are as follows,  
+The different Android applications developed here are as follows,  
 ◦ App 1: Simple GUI App  
 ◦ App 2: Periodic Sensor Reading using Accelerometer data   
 ◦ App 3: Broadcast Receiver & Multi-threading: File Downloader  
